@@ -6,5 +6,6 @@ Three of my first mini project in Java using the standard library of Java:
 
 1. Sierpinski Triangle:
   
-  A recursive implementation of the famus shape. Depth of the shape is 8 (could be changed.
-  ![ST](https://raw.githubusercontent.com/ofir1080/Java-STDlib-mini-projects/ST1.PNG)
+  A recursive implementation of the famus shape. Depth of the shape is 8 (could be changed)
+  
+  ![ST](https://github.com/ofir1080/Java-STDlib-mini-projects/blob/master/ST1.PNG)
